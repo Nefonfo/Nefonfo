@@ -4,6 +4,10 @@
   <img src="https://nefonfo.github.io/web-portafolio/_astro/cat-tapping.95d9c2f4.gif" alt="cat-tapping" />
 </div>
 
+## Jobs
+  <p>💻 Software Engineer @ Odoo.</p>
+  <p>💻 FullStack Developer Intern @ Odoo.</p>
+
 ## Education
   <p>🎓 Computer Science Engineer @ IPN - UPIICSA.</p>
   <p>🎓 Programming Technician @ IPN - CECYT 9.</p>
